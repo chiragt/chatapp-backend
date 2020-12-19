@@ -19,4 +19,4 @@ Your server will be setup and ready for use.
 
 ### UI
 * Go to browser and type `localhost:3000` in place of url.
-* You should be able to see "Hello Digicorp,Socket Server is working....!" in your browser.
+* You should be able to see `"Hello Digicorp,Socket Server is working....!"` in your browser.
