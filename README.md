@@ -10,7 +10,7 @@ git clone https://github.com/chiragt/chatapp-backend.git
 ### Server
 * You need to have node and npm installed in your machine.
 * Used Node.js version for this project is = v14.15.3
-* open up your teminal or command prompt and go to the directory `chat`
+* open up your teminal or command prompt and go to the directory `chatapp-backend` directory
 * Install dependencies using `npm install`
 * After installing all the dependencies run `npm start`
 
