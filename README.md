@@ -5,7 +5,12 @@ This is a chat application that can be used for local usage in a small network.
 Clone the project
 ```
 git clone https://github.com/chiragt/chatapp-backend.git
+
 ```
+
+# SQLite DB Command for sequelize
+`node_modules/.bin/sequelize db:migrate`
+
 
 ### Server
 * You need to have node and npm installed in your machine.
