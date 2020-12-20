@@ -7,11 +7,13 @@ Clone the project
 git clone https://github.com/chiragt/chatapp-backend.git
 ```
 
+
 ### Server
 * You need to have node and npm installed in your machine.
 * Used Node.js version for this project is = v14.15.3
 * open up your teminal or command prompt and go to the directory `chatapp-backend` directory
 * Install dependencies using `npm install`
+* SQLite DB Command for sequelize `node_modules/.bin/sequelize db:migrate`
 * After installing all the dependencies run `npm start`
 
 Your server will be setup and ready for use.
